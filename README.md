@@ -4,7 +4,7 @@
 - 💬 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
 Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e esforçado!
 - 📫 Email - ogait.desenvolvedro.jr@gmail.com
-- ✔ linkedin.com/in/tiagocode   
+- ✔ http://www.linkedin.com/in/tiagocode   
 
 <div align="center">
   <a href="https://github.com/TiagoBonoraBraga">
