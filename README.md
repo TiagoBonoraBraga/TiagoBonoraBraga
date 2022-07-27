@@ -1,16 +1,12 @@
-### Hi there 👋
+## Oiii eu sou o Tiago Bonora Braga!
 
-<!--
-**TiagoBonoraBraga/TiagoBonoraBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Desenvolvimento FullStack na Blue EdTech.
+- 💬 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
+Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e esforçado!
+- 📫 Email - ogait.desenvolvedro.jr@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/TiagoBonoraBraga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&langs_count=7&theme=dracula"/>
+</div>
