@@ -1,6 +1,6 @@
-## Oiii eu sou o Tiago Bonora Braga!
+## Tiago Bonora Braga!
 
-- 🌱 Estudando Desenvolvimento FullStack na Blue EdTech.
+- 🌱 Desenvolvedor Fullstack.
 - 💬 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
 Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e esforçado!
 - 📫 Email - ogait.desenvolvedro.jr@gmail.com
