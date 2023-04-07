@@ -67,9 +67,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
             <a href="https://www.javascript.com" target="_blank">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.cprogramming.com" target="_blank">
-                <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="border-radius: 8%; height: 25px"/>
-            </a>
+           
         </div>
     </li>
     <li>
