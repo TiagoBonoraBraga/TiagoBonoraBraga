@@ -13,7 +13,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://www.linkedin.com/in/vitor-csdo/">Vitor Carneiro</a>
+                <b><a target="_blank" href="https://www.linkedin.com/in/vitor-csdo/">Tiago Bonora Braga</a>
                 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
                 </b>
         </samp>
