@@ -1,15 +1,4 @@
 <hr/>
-<a
-    href="https://github.com/TiagoBonoraBraga" 
-    alt="visitors"
-    target="_blank"
->
-    <img src="https://gpvc.arturio.dev/vitorcarneiro" alt="profile-vi"/>
-</a>
-
-<a href="https://wakatime.com/@75b063fd-fc90-4981-92ec-8042466ed674">
-    <img src="https://wakatime.com/badge/user/75b063fd-fc90-4981-92ec-8042466ed674.svg" alt="Total time coded since Oct 14 2021"/>
-</a>
 
 <h3 align="center">
         <samp>&gt; Hey There!, I'm
