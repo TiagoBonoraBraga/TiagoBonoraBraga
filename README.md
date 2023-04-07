@@ -42,19 +42,12 @@
 - 💬 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
 Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e esforçado!
 - 📫 Email - ogait.desenvolvedro.jr@gmail.com
-- ✔  Linkedin - http://www.linkedin.com/in/tiagocode   
+- ✔  Linkedin - http://www.linkedin.com/in/tiagocode  
 
-            </li>
-         
-        </ul>
+           
     </div>
     <hr/>
-    <div style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
-        <div style="width:100%; display:flex">
-            <img style="width:68%; height: 200px; margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=vitorcarneiro&show_icons=true&theme=react" />
-            <img style="width:28%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarneiro&theme=react" />
-        </div>
-    </div>
+   
 </details>
 
 <br>
