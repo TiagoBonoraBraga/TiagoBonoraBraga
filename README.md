@@ -209,20 +209,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
 >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8%; height: 25px"/>
 </a>
-<a
-    href="https://mail.google.com/mail/u/0/?fs=1&to=vitorcarneiro.sdo@gmail.com&su=I saw your github profile&body=Hello Vitor. My name is _______ &bcc=vitorcarneiro.sdo@gmail.com&tf=cm" 
-    alt="Gmail"
-    target="_blank"
->
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8%; height: 25px"/>
-</a>
-<a
-    href="mailto:vitorcarneiro.sdo@gmail.com" 
-    alt="Outlook"
-    target="_blank"
->
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 8%; height: 25px"/>
-</a>
+
    
 
 
