@@ -1,6 +1,6 @@
 <hr/>
 <a
-    href="https://github.com/vitorcarneiro" 
+    href="https://github.com/TiagoBonoraBraga" 
     alt="visitors"
     target="_blank"
 >
@@ -13,7 +13,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://www.linkedin.com/in/vitor-csdo/">Tiago Bonora Braga</a>
+                <b><a target="_blank" href="https://www.linkedin.com/in/tiagocode/">Tiago Bonora Braga</a>
                 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
                 </b>
         </samp>
@@ -36,11 +36,16 @@
         <h3 style="font-weight: 500">👨‍💻 About me:</h3 style="font-weight: 500">
         <ul>
             <li>
-                ➡️ My second step in life definitely was technology, when I got my first PC I was just 3yo and since then I am so still into it. I passed through some questions in my life, but when I wrote my first code line of "Hello World" on a class of my university I realized that my duty is to make that bunch of code lines into a path for giving the best of me.
+                ## Tiago Bonora Braga!
+
+- 🌱 Desenvolvedor Fullstack.
+- 💬 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
+Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e esforçado!
+- 📫 Email - ogait.desenvolvedro.jr@gmail.com
+- ✔  Linkedin - http://www.linkedin.com/in/tiagocode   
+
             </li>
-            <li>
-                ➡️ For start my path as Software Engineer I needed to look for something that could help me on this long way, then I found Driven, the name explains itself, they guided me into my goal and taught me a lot.
-            </li>
+         
         </ul>
     </div>
     <hr/>
