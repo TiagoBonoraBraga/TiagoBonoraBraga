@@ -178,9 +178,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Tools:</h3 style="font-weight: 500">
-            <a href="https://www.typescriptlang.org/" target="_blank">
-                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" style="border-radius: 8%; height: 25px"/>
-            </a>
+            
             <a href="https://www.figma.com" target="_blank">
                 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="border-radius: 8%; height: 25px"/>
             </a>
@@ -195,13 +193,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
 
 <h3 style="font-weight: 500">📫 How to reach me:</h3 style="font-weight: 500">
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a
-    href="https://wa.me/5541999842243?text=Hello%20Vitor,%20I%20saw%20your%20github%20profile" 
-    alt="WhatsApp"
-    target="_blank"
->
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 8%; height: 25px"/>
-</a>
+
 <a
     href="https://www.linkedin.com/in/tiagocode/" 
     alt="LinkedIn"
