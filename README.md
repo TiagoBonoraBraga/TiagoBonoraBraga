@@ -67,9 +67,9 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
             <a href="https://www.javascript.com" target="_blank">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.cprogramming.com" target="_blank">
+<!--             <a href="https://www.cprogramming.com" target="_blank">
                 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="border-radius: 8%; height: 25px"/>
-            </a>
+            </a> -->
         </div>
     </li>
     <li>
@@ -78,15 +78,15 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
             <a href="https://nodejs.org/en/about/" target="_blank">
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.docker.com" target="_blank">
+<!--             <a href="https://www.docker.com" target="_blank">
                 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="border-radius: 8%; height: 25px"/>
-            </a>
+            </a> -->
             <a href="https://expressjs.com" target="_blank">
                 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.nginx.com" target="_blank">
+<!--             <a href="https://www.nginx.com" target="_blank">
                 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" style="border-radius: 8%; height: 25px"/>
-            </a>
+            </a> -->
         </div>
     </li>
     <li>
@@ -118,9 +118,9 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
             <a href="https://www.mongodb.com" target="_blank">
                 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://redis.io" target="_blank">
+<!--             <a href="https://redis.io" target="_blank">
                 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" style="border-radius: 8%; height: 25px"/>
-            </a>
+            </a> -->
             <a href="https://www.prisma.io" target="_blank">
                 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" style="border-radius: 8%; height: 25px"/>
             </a>
@@ -129,9 +129,9 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Deploy:</h3 style="font-weight: 500">
-            <a href="https://aws.amazon.com" target="_blank">
+<!--             <a href="https://aws.amazon.com" target="_blank">
                 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" style="border-radius: 8%; height: 25px"/>
-            </a>
+            </a> -->
             <a href="https://www.heroku.com" target="_blank">
                 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" style="border-radius: 8%; height: 25px"/>
             </a>
@@ -140,7 +140,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
             </a>
         </div>
     </li>
-    <li>
+<!--     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Tests:</h3 style="font-weight: 500">
             <a href="https://jestjs.io" target="_blank">
@@ -150,7 +150,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
                 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" style="border-radius: 8%; height: 25px"/>
             </a>
         </div>
-    </li>
+    </li> -->
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Linters:</h3 style="font-weight: 500">
@@ -163,7 +163,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
         </div>
     </li>
     <li>
-        <div style="display: flex; align-content: center; gap: 8px">
+<!--         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Operational systems:</h3 style="font-weight: 500">
             <a href="https://ubuntu.com" target="_blank">
                 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="border-radius: 8%; height: 25px"/>
@@ -174,11 +174,13 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
             <a href="https://docs.microsoft.com/en-us/windows/wsl/install" target="_blank">
                 <img src="https://img.shields.io/badge/WSL-blue?style=for-the-badge&logo=windows&logoColor=white" alt="wsl" style="border-radius: 8%; height: 25px"/>
             </a>
-        </div>
+        </div> -->
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Tools:</h3 style="font-weight: 500">
-            
+<!--             <a href="https://www.typescriptlang.org/" target="_blank">
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" style="border-radius: 8%; height: 25px"/>
+            </a> -->
             <a href="https://www.figma.com" target="_blank">
                 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="border-radius: 8%; height: 25px"/>
             </a>
@@ -191,16 +193,7 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
 
 <hr/>
 
-<h3 style="font-weight: 500">📫 How to reach me:</h3 style="font-weight: 500">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a
-    href="https://www.linkedin.com/in/tiagocode/" 
-    alt="LinkedIn"
-    target="_blank"
->
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8%; height: 25px"/>
-</a>
 
    
 
@@ -208,5 +201,5 @@ Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e e
 
 
   
-  ##
+
   
