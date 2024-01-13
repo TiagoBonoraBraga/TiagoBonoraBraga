@@ -30,7 +30,7 @@
 - 🌱 Desenvolvedor Fullstack.
 - 💬 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
 Se pudesse me definir em 3 palavras certamente seria: otimista, perseverante e esforçado!
-- 📫 Email - ogait.desenvolvedro.jr@gmail.com
+- 📫 Email - ogait.desenvolvedor.jr@gmail.com
 - ✔  Linkedin - http://www.linkedin.com/in/tiagocode  
 
            
