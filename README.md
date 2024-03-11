@@ -30,7 +30,7 @@
 - 🌱 Desenvolvedor Fullstack.
 - 💬 Sou um Desenvolvedor de Software Full Stack apaixonado pela criação de soluções tecnológicas inovadoras.  Meu compromisso é entregar produtos de alta qualidade que superem as expectativas dos clientes. Do front-end ao back-end, meu objetivo é transformar ideias em realidade por meio de código eficiente e design intuitivo.
 Minha abordagem vai além do código. Eu me esforço para entender as necessidades específicas dos clientes, colaborando de perto para garantir que cada solução atenda não apenas aos requisitos técnicos, mas também às metas de negócios. Sou apaixonado por aprender e me manter atualizado com as últimas tendências tecnológicas para oferecer soluções modernas e inovadoras.
-Ao escolher minha expertise, você está optando por um parceiro estratégico comprometido em transformar desafios em oportunidades. Estou pronto para enfrentar projetos complexos, oferecendo soluções que impulsionam o crescimento e a inovação. Vamos juntos criar software que faz a diferença!
+Estou pronto para enfrentar projetos complexos, oferecendo soluções que impulsionam o crescimento e a inovação. Vamos juntos criar software que faz a diferença!
 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
 Se pudesse me definir em 3 palavras certamente seria: Otimista, Perseverante e Esforçado!
 
