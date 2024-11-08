@@ -28,7 +28,7 @@
             <li>
                 ## Tiago Bonora Braga!
 
-- 🌱 Desenvolvedor Fullstack.
+- 🌱 Fullstack Developer.
 - 💬I am a Full Stack Software Developer passionate about creating innovative technological solutions. My commitment is to deliver high-quality products that exceed client expectations. From front-end to back-end, my goal is to bring ideas to life through efficient code and intuitive design.
 My approach goes beyond code. I strive to understand clients' specific needs, working closely to ensure each solution meets not only technical requirements but also business goals. I am passionate about learning and staying updated with the latest technology trends to offer modern and innovative solutions.
 By choosing my expertise, you are opting for a strategic partner dedicated to turning challenges into opportunities. I am ready to tackle complex projects, providing solutions that drive growth and innovation. Let’s create software that makes a difference!
