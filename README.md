@@ -59,6 +59,8 @@ Se pudesse me definir em 3 palavras certamente seria: Otimista, Perseverante e E
  &nbsp;
 
 
+<div align="start">
+        
 
 ## My Skills
 
@@ -122,7 +124,7 @@ Se pudesse me definir em 3 palavras certamente seria: Otimista, Perseverante e E
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
    
-
+</div>
 
 
 
