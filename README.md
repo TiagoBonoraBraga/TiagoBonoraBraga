@@ -1,5 +1,6 @@
 <hr/>
-
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/TiagoBonoraBragat/TiagoBonoraBraga/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+&nbsp;&nbsp;&nbsp;
 <h3 align="center">
         <samp>&gt; Hey There!, I'm
                 <b><a target="_blank" href="https://www.linkedin.com/in/tiagocode/">Tiago Bonora Braga</a>
