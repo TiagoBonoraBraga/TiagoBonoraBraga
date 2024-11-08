@@ -1,7 +1,7 @@
 <hr/>
 
 &nbsp;&nbsp;&nbsp;
-<h3 align="center">
+<h3 align="center" style="backgor">
         <samp>&gt; Hey There!, I'm
                 <b><a target="_blank" href="https://www.linkedin.com/in/tiagocode/">Tiago Bonora Braga</a>
                 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
