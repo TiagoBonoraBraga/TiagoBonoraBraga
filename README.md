@@ -43,14 +43,14 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
     <hr/>
    
 </details>
-<!--      <div align="center">
+      <div align="center">
   <a href="https://github.com/TiagoBonoraBraga">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/TiagoBonoraBraga">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div> -->
+</div> 
 <div  align="center" style="margin-bottom:100px">
 <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoBonoraBraga&theme=radical" />
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&show_icons=true&theme=radical&layout=compact" />
