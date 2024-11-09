@@ -45,7 +45,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </details>
      
 <div  align="center" style="margin-bottom:100px">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TiagoBonoraBraga&theme=radical)
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true" />
 
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&show_icons=true&theme=radical&layout=compact" />
 </div>
