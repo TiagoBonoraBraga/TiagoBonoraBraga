@@ -45,49 +45,42 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </details>
      
 
-<!-- ===== STATS: OPÇÃO B AJUSTADA (2 EM LINHA + 1 ABAIXO) ===== -->
-<div align="center">
-  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
-
-    <!-- Bloco 1: Stats (esquerda) -->
-    <div style="flex:1 1 420px; min-width:320px; max-width:520px;">
+<!-- ===== STATS: OPÇÃO B (TABLE) — 2 EM CIMA + 1 EMBAIXO ===== -->
+<table align="center">
+  <tr>
+    <!-- Esquerda: Stats -->
+    <td>
       <img
-        src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=3"
+        src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=4"
         alt="GitHub Stats - Tiago"
-        style="width:100%;"
       />
-    </div>
+    </td>
 
-    <!-- Bloco 2: Linguagens (direita) -->
-    <div style="flex:1 1 420px; min-width:320px; max-width:520px;">
+    <!-- Direita: Linguagens (2 cards empilhados) -->
+    <td>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical"
         alt="Repos per Language - Tiago"
-        style="width:100%;"
-      />
-      <br/>
+      /><br/>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiagoBonoraBraga&theme=radical"
         alt="Most Commit Language - Tiago"
-        style="width:100%; margin-top:8px;"
       />
-    </div>
+    </td>
+  </tr>
 
-    <!-- Quebra de linha -->
-    <div style="flex-basis:100%; height:0;"></div>
-
-    <!-- Bloco 3 (abaixo): Profile Details (full width) -->
-    <div style="width:100%; max-width:1080px;">
+  <!-- Linha de baixo: Profile Details ocupando 2 colunas -->
+  <tr>
+    <td colspan="2" align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical"
         alt="Profile Details - Tiago"
-        style="width:100%;"
       />
-    </div>
+    </td>
+  </tr>
+</table>
+<!-- ===== FIM ===== -->
 
-  </div>
-</div>
-<!-- ===== FIM OPÇÃO B AJUSTADA ===== -->
 
 
 
