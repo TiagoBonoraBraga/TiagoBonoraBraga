@@ -50,32 +50,43 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true" />
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&show_icons=true&theme=radical&layout=compact" />
 </div>
-<!-- ===== STATS: OPÇÃO A - 3 CARDS EMPILHADOS ===== -->
-<div align="center">
-
-  <!-- Stats -->
-  <img
-    width="62%"
-    src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=2"
-    alt="GitHub Stats - Tiago"
-  />
-
-  <!-- Streak (dias seguidos) -->
-  <img
-    width="62%"
-    src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true"
-    alt="Streak - Tiago"
-  />
-
-  <!-- Linguagens -->
-  <img
-    width="62%"
-    src="https://github-readme-stats-tiago.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&theme=radical&hide_border=true&card_width=445"
-    alt="Top Languages - Tiago"
-  />
-
-</div>
-<!-- ===== FIM OPÇÃO A ===== -->
+<!-- ===== STATS: OPÇÃO B - GRID 2x2 ===== -->
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=2"
+        alt="GitHub Stats - Tiago"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical"
+        alt="Repos per Language - Tiago"
+      />
+      <br/>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiagoBonoraBraga&theme=radical"
+        alt="Most Commit Language - Tiago"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true"
+        alt="Streak - Tiago"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical"
+        alt="Profile Details - Tiago"
+      />
+    </td>
+  </tr>
+</table>
+<!-- ===== FIM OPÇÃO B ===== -->
 
 
 <hr/>
