@@ -85,7 +85,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 
 
 <div align="start">
-        
+        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 ## My Skills
 
