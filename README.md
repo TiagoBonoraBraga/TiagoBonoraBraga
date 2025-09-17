@@ -45,13 +45,11 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </details>
      
 
-<!-- ===== DASHBOARD: 2 EM CIMA + 1 EMBAIXO ===== -->
-<div align="center">
-
+<!-- INÍCIO TESTE: 2 EM CIMA + 1 EMBAIXO -->
 <table>
-   <tr>
+  <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=6" alt="GitHub Stats - Tiago" />
+      <img src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=7" alt="GitHub Stats - Tiago" />
     </td>
     <td align="center" valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical" alt="Repos per Language - Tiago" /><br/>
@@ -59,25 +57,13 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical" alt="Profile Details - Tiago" />
     </td>
   </tr>
-
-  <!-- Linha de baixo: Profile Details (full width) -->
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical"
-        alt="Profile Details - Tiago"
-        width="920"
-      />
-    </td>
-  </tr>
 </table>
+<!-- FIM TESTE -->
 
-</div>
-<!-- ===== FIM ===== -->
 
 
 
