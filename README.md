@@ -48,14 +48,22 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 <!-- INÍCIO TESTE: 2 EM CIMA + 1 EMBAIXO -->
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=7" alt="GitHub Stats - Tiago" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical" alt="Repos per Language - Tiago" /><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiagoBonoraBraga&theme=radical" alt="Most Commit Language - Tiago" />
-    </td>
-  </tr>
+  <td align="center" valign="top">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical"
+      alt="Repos per Language - Tiago"
+      width="420"
+    />
+  </td>
+  <td align="center" valign="top">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiagoBonoraBraga&theme=radical"
+      alt="Most Commit Language - Tiago"
+      width="420"
+    />
+  </td>
+</tr>
+
   <tr>
     <td colspan="2" align="center" valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical" alt="Profile Details - Tiago" />
