@@ -72,8 +72,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </table>
 <!-- FIM TESTE -->
 <p align="center">
-  <a href="#"><img alt="GitHub Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=radical&area=true&hide_border=true&radius=8&v=1" /></a>
+  <img src="https://ghchart.rshah.org/8cc665/TiagoBonoraBraga" alt="Tiago's Github contribution chart" />
 </p>
 
 
