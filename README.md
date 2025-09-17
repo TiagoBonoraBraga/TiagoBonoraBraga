@@ -44,12 +44,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
    
 </details>
      
-<div  align="center" style="margin-bottom:100px">
 
-
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true" />
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&show_icons=true&theme=radical&layout=compact" />
-</div>
 <!-- ===== STATS: OPÇÃO B - GRID 2x2 ===== -->
 <table align="center">
   <tr>
@@ -87,34 +82,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
   </tr>
 </table>
 <!-- ===== FIM OPÇÃO B ===== -->
-<!-- ===== STATS: OPÇÃO C - WIDE + PRODUTIVIDADE ===== -->
-<div align="center">
 
-  <!-- Card largo principal -->
-  <img
-    width="75%"
-    src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=2"
-    alt="GitHub Stats - Tiago"
-  />
-  <br/>
-
-  <!-- Produtividade por horário -->
-  <img
-    width="75%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoBonoraBraga&theme=radical&utcOffset=-3"
-    alt="Productive Time - Tiago"
-  />
-  <br/>
-
-  <!-- Linguagens (compact) -->
-  <img
-    width="75%"
-    src="https://github-readme-stats-tiago.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages - Tiago"
-  />
-
-</div>
-<!-- ===== FIM OPÇÃO C ===== -->
 
 
 <hr/>
