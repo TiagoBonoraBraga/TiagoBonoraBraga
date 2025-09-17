@@ -45,38 +45,50 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </details>
      
 
-<!-- ===== STATS: OPÇÃO B - GRID 2x2 ===== -->
-<table align="center">
-  <tr>
-    
-    <td>
+<!-- ===== STATS: OPÇÃO B AJUSTADA (2 EM LINHA + 1 ABAIXO) ===== -->
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+
+    <!-- Bloco 1: Stats (esquerda) -->
+    <div style="flex:1 1 420px; min-width:320px; max-width:520px;">
+      <img
+        src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=3"
+        alt="GitHub Stats - Tiago"
+        style="width:100%;"
+      />
+    </div>
+
+    <!-- Bloco 2: Linguagens (direita) -->
+    <div style="flex:1 1 420px; min-width:320px; max-width:520px;">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical"
         alt="Repos per Language - Tiago"
+        style="width:100%;"
       />
       <br/>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiagoBonoraBraga&theme=radical"
         alt="Most Commit Language - Tiago"
+        style="width:100%; margin-top:8px;"
       />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true"
-        alt="Streak - Tiago"
-      />
-    </td>
-    <td>
+    </div>
+
+    <!-- Quebra de linha -->
+    <div style="flex-basis:100%; height:0;"></div>
+
+    <!-- Bloco 3 (abaixo): Profile Details (full width) -->
+    <div style="width:100%; max-width:1080px;">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical"
         alt="Profile Details - Tiago"
+        style="width:100%;"
       />
-    </td>
-  </tr>
-</table>
-<!-- ===== FIM OPÇÃO B ===== -->
+    </div>
+
+  </div>
+</div>
+<!-- ===== FIM OPÇÃO B AJUSTADA ===== -->
+
 
 
 
