@@ -48,12 +48,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 <!-- ===== STATS: OPÇÃO B - GRID 2x2 ===== -->
 <table align="center">
   <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-tiago.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&v=2"
-        alt="GitHub Stats - Tiago"
-      />
-    </td>
+    
     <td>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical"
