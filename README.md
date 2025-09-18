@@ -71,34 +71,6 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
   </tr>
 </table>
 <!-- FIM TESTE -->
-<!-- CONTRIBUTION GRID + YEARS -->
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <!-- Grid clássico estilo GitHub -->
-      <img
-        src="https://github-contributions.vercel.app/graph?username=TiagoBonoraBraga&theme=github&v=3"
-        alt="Contribution grid"
-      />
-    </td>
-    <td align="left" valign="top">
-      <strong>Years</strong><br/>
-      <a href="https://github.com/users/TiagoBonoraBraga/contributions?from=2025-01-01&to=2025-12-31">2025</a><br/>
-      <a href="https://github.com/users/TiagoBonoraBraga/contributions?from=2024-01-01&to=2024-12-31">2024</a><br/>
-      <a href="https://github.com/users/TiagoBonoraBraga/contributions?from=2023-01-01&to=2023-12-31">2023</a><br/>
-      <a href="https://github.com/users/TiagoBonoraBraga/contributions?from=2022-01-01&to=2022-12-31">2022</a><br/>
-      <a href="https://github.com/users/TiagoBonoraBraga/contributions?from=2021-01-01&to=2021-12-31">2021</a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
 <hr/>
 
  &nbsp;
