@@ -53,72 +53,43 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
     alt="Profile Details"
   />
 </p>
-<p align="center">
-  <img
-    src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg"
-    alt="Quadro de contribuições de Tiago Bonora Braga — últimos 12 meses"
-  />
-</p>
-
-<details align="center">
-  <summary>📅 2026 (ano atual)</summary>
-  <p align="center">
-    <img
-      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2026-01-01&amp;to=2026-12-31"
-      alt="Contribuições de 2026"
-    />
-  </p>
-</details>
-
-<details align="center">
-  <summary>📅 2025 · 413 contribuições</summary>
-  <p align="center">
-    <img
-      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2025-01-01&amp;to=2025-12-31"
-      alt="Contribuições de 2025"
-    />
-  </p>
-</details>
-
-<details align="center">
-  <summary>📅 2024 · 550 contribuições</summary>
-  <p align="center">
-    <img
-      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2024-01-01&amp;to=2024-12-31"
-      alt="Contribuições de 2024"
-    />
-  </p>
-</details>
-
-<details align="center">
-  <summary>📅 2023 · 596 contribuições</summary>
-  <p align="center">
-    <img
-      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2023-01-01&amp;to=2023-12-31"
-      alt="Contribuições de 2023"
-    />
-  </p>
-</details>
-
-<details align="center">
-  <summary>📅 2022 · 432 contribuições</summary>
-  <p align="center">
-    <img
-      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2022-01-01&amp;to=2022-12-31"
-      alt="Contribuições de 2022"
-    />
-  </p>
-</details>
-
-<details align="center">
-  <summary>📅 2021 · 1 contribuição</summary>
-  <p align="center">
-    <img
-      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2021-01-01&amp;to=2021-12-31"
-      alt="Contribuições de 2021"
-    />
-  </p>
-</details>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg"
+        alt="Quadro de contribuições de Tiago Bonora Braga — últimos 12 meses"
+      />
+      <br/>
+      <sub>Últimos 12 meses — clique num ano ao lado para ver o quadro daquele ano</sub>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/TiagoBonoraBraga?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">
+        <img src="https://img.shields.io/badge/2026-0969da?style=flat-square" alt="Ver contribuições de 2026" />
+      </a>
+      <br/>
+      <a href="https://github.com/TiagoBonoraBraga?tab=overview&amp;from=2025-01-01&amp;to=2025-12-31">
+        <img src="https://img.shields.io/badge/2025-57606a?style=flat-square" alt="Ver contribuições de 2025" />
+      </a>
+      <br/>
+      <a href="https://github.com/TiagoBonoraBraga?tab=overview&amp;from=2024-01-01&amp;to=2024-12-31">
+        <img src="https://img.shields.io/badge/2024-57606a?style=flat-square" alt="Ver contribuições de 2024" />
+      </a>
+      <br/>
+      <a href="https://github.com/TiagoBonoraBraga?tab=overview&amp;from=2023-01-01&amp;to=2023-12-31">
+        <img src="https://img.shields.io/badge/2023-57606a?style=flat-square" alt="Ver contribuições de 2023" />
+      </a>
+      <br/>
+      <a href="https://github.com/TiagoBonoraBraga?tab=overview&amp;from=2022-01-01&amp;to=2022-12-31">
+        <img src="https://img.shields.io/badge/2022-57606a?style=flat-square" alt="Ver contribuições de 2022" />
+      </a>
+      <br/>
+      <a href="https://github.com/TiagoBonoraBraga?tab=overview&amp;from=2021-01-01&amp;to=2021-12-31">
+        <img src="https://img.shields.io/badge/2021-57606a?style=flat-square" alt="Ver contribuições de 2021" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <hr/>
