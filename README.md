@@ -1,5 +1,3 @@
-<hr/>
-
 &nbsp;&nbsp;&nbsp;
 <h3 align="center" style="backgor">
         <samp>&gt; Hey There!, I'm
@@ -49,50 +47,26 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-  <a href="https://github.com/TiagoBonoraBraga">
-    <img
-      width="49%"
-      height="165"
-      src="https://SEU-DEPLOY.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"
-      alt="Estatísticas do GitHub de Tiago Bonora Braga"
-    />
-  </a>
-
-  <a href="https://github.com/TiagoBonoraBraga">
-    <img
-      width="41%"
-      height="165"
-      src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=86400"
-      alt="Linguagens mais utilizadas por Tiago Bonora Braga"
-    />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <img
-    width="58%"
-    src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"
-    alt="Sequência de contribuições no GitHub"
+    src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
   />
-</div>
+</p>
 
-<br>
+<h2 align="center">📈 Contribution Activity</h2>
 
-<div align="center">
+<p align="center">
   <img
-    width="92%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity"
-    alt="Gráfico de atividades no GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
   />
-</div>
-
+</p>
 <hr/>
 
 &nbsp;
 &nbsp;
+
 
 <div align="start">
         <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
@@ -178,9 +152,3 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
    
 </div>
-
-
-
-  
-
-  
