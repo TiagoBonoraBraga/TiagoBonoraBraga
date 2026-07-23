@@ -45,36 +45,48 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </details>
      
 
-<!-- INÍCIO TESTE: 2 EM CIMA + 1 EMBAIXO -->
-<table>
-  <tr>
-  <td align="center" valign="top">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoBonoraBraga&theme=radical"
-      alt="Repos per Language - Tiago"
-      width="420"
-    />
-  </td>
-  <td align="center" valign="top">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiagoBonoraBraga&theme=radical"
-      alt="Most Commit Language - Tiago"
-      width="420"
-    />
-  </td>
-</tr>
+<!-- GITHUB ANALYTICS -->
 
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoBonoraBraga&theme=radical" alt="Profile Details - Tiago" />
-    </td>
-  </tr>
-</table>
-<!-- FIM TESTE -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&langs_count=8&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="850"
+    src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=react-dark&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
+</div>
+
 <hr/>
 
- &nbsp;
- &nbsp;
+&nbsp;
+&nbsp;
 
 
 <div align="start">
