@@ -61,13 +61,7 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
   />
 </p>
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+
 
 <hr/>
 
