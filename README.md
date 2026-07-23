@@ -55,11 +55,70 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 </p>
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/TiagoBonoraBraga"
-    alt="Quadro de contribuições de Tiago Bonora Braga"
-    width="100%"
+    src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg"
+    alt="Quadro de contribuições de Tiago Bonora Braga — últimos 12 meses"
   />
 </p>
+
+<details align="center">
+  <summary>📅 2026 (ano atual)</summary>
+  <p align="center">
+    <img
+      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2026-01-01&amp;to=2026-12-31"
+      alt="Contribuições de 2026"
+    />
+  </p>
+</details>
+
+<details align="center">
+  <summary>📅 2025 · 413 contribuições</summary>
+  <p align="center">
+    <img
+      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2025-01-01&amp;to=2025-12-31"
+      alt="Contribuições de 2025"
+    />
+  </p>
+</details>
+
+<details align="center">
+  <summary>📅 2024 · 550 contribuições</summary>
+  <p align="center">
+    <img
+      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2024-01-01&amp;to=2024-12-31"
+      alt="Contribuições de 2024"
+    />
+  </p>
+</details>
+
+<details align="center">
+  <summary>📅 2023 · 596 contribuições</summary>
+  <p align="center">
+    <img
+      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2023-01-01&amp;to=2023-12-31"
+      alt="Contribuições de 2023"
+    />
+  </p>
+</details>
+
+<details align="center">
+  <summary>📅 2022 · 432 contribuições</summary>
+  <p align="center">
+    <img
+      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2022-01-01&amp;to=2022-12-31"
+      alt="Contribuições de 2022"
+    />
+  </p>
+</details>
+
+<details align="center">
+  <summary>📅 2021 · 1 contribuição</summary>
+  <p align="center">
+    <img
+      src="https://github-contributions-api.deno.dev/TiagoBonoraBraga.svg?from=2021-01-01&amp;to=2021-12-31"
+      alt="Contribuições de 2021"
+    />
+  </p>
+</details>
 
 
 <hr/>
