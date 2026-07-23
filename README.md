@@ -32,7 +32,7 @@ By choosing my expertise, you are opting for a strategic partner dedicated to tu
 I consider myself agile and consistent in learning new languages and adapting to any changes, ready to overcome any challenge.
 If I had to define myself in three words, they would certainly be: Optimistic, Perseverant, and Dedicated!
 
-- 📫 Email - ogait.desenvolvedor.jr@gmail.com
+- 📫 Email - ogait.desenvolvedor@gmail.com
 - ✔  Linkedin - http://www.linkedin.com/in/tiagocode  
 
            
