@@ -49,23 +49,19 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
   <img
-    width="850"
-    src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true&border_radius=10"
     alt="GitHub Streak"
   />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img
-    width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=react-dark&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
+    alt="GitHub Activity Graph"
   />
-</div>
+</p>
 
 <h2 align="center">📈 Contribution Activity</h2>
 
