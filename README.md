@@ -51,22 +51,6 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
 
 <div align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=TiagoBonoraBraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBonoraBraga&layout=compact&langs_count=8&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
     width="850"
     src="https://streak-stats.demolab.com?user=TiagoBonoraBraga&theme=radical&hide_border=true"
     alt="GitHub Streak"
@@ -82,6 +66,15 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
     alt="Contribution Activity Graph"
   />
 </div>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBonoraBraga&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <hr/>
 
