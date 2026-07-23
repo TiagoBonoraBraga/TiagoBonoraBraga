@@ -15,7 +15,6 @@
             <br>
             <br>
     </samp>
-    <img src="./images/duck.gif" alt="duck" height="100px">
 </p>
 
 <details align="center">
@@ -55,21 +54,11 @@ If I had to define myself in three words, they would certainly be: Optimistic, P
   />
 </p>
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile-3d-contrib/profile-night-rainbow.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile-3d-contrib/profile-green-animate.svg"
-    />
-    <img
-      width="100%"
-      src="./profile-3d-contrib/profile-green-animate.svg"
-      alt="Calendário de contribuições de Tiago Bonora Braga"
-    />
-  </picture>
+  <img
+    src="https://ghchart.rshah.org/TiagoBonoraBraga"
+    alt="Quadro de contribuições de Tiago Bonora Braga"
+    width="100%"
+  />
 </p>
 
 
